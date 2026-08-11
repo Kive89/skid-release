@@ -3,6 +3,6 @@
     "download_url": "https://raw.githubusercontent.com/Kive89/skid-release/main/skid.cc.exe",
     "changelog": [
         "Dein neues Update-Feature 1",
-        "Fehlerbehebungen"
+        "removed model tint"
     ]
 }

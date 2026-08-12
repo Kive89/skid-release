@@ -1,8 +1,9 @@
 {
-    "version": "v1.0.2",
+    "version": "v1.0.3",
     "download_url": "https://raw.githubusercontent.com/Kive89/skid-release/main/skid.cc.exe",
     "changelog": [
-        "Dein neues Update-Feature 1",
-        "removed model tint"
+        "some bug fixes",
+        "ADDED Spread circle and more Smoothing"
+          
     ]
 }

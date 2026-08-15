@@ -1,9 +1,9 @@
 {
-    "version": "v1.0.3",
+    "version": "v1.0.4",
     "download_url": "https://raw.githubusercontent.com/Kive89/skid-release/main/skid.cc.exe",
     "changelog": [
         "some bug fixes",
-        "ADDED Spread circle and more Smoothing"
+        "ui improvements lati stinkt"
           
     ]
 }
